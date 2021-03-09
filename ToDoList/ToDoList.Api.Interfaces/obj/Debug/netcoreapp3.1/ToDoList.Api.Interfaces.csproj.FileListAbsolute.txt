@@ -1,0 +1,12 @@
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api.Interfaces\bin\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.deps.json
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api.Interfaces\bin\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.dll
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api.Interfaces\bin\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.pdb
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api.Interfaces\bin\Debug\netcoreapp3.1\ToDoList.Entities.dll
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api.Interfaces\bin\Debug\netcoreapp3.1\ToDoList.Entities.pdb
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api.Interfaces\obj\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.csprojAssemblyReference.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api.Interfaces\obj\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.AssemblyInfoInputs.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api.Interfaces\obj\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.AssemblyInfo.cs
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api.Interfaces\obj\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api.Interfaces\obj\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.csproj.CopyComplete
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api.Interfaces\obj\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.dll
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api.Interfaces\obj\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.pdb

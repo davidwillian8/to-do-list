@@ -1,0 +1,9 @@
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Entities\bin\Debug\netcoreapp3.1\ToDoList.Entities.deps.json
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Entities\bin\Debug\netcoreapp3.1\ToDoList.Entities.dll
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Entities\bin\Debug\netcoreapp3.1\ToDoList.Entities.pdb
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Entities\obj\Debug\netcoreapp3.1\ToDoList.Entities.csprojAssemblyReference.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Entities\obj\Debug\netcoreapp3.1\ToDoList.Entities.AssemblyInfoInputs.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Entities\obj\Debug\netcoreapp3.1\ToDoList.Entities.AssemblyInfo.cs
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Entities\obj\Debug\netcoreapp3.1\ToDoList.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Entities\obj\Debug\netcoreapp3.1\ToDoList.Entities.dll
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Entities\obj\Debug\netcoreapp3.1\ToDoList.Entities.pdb

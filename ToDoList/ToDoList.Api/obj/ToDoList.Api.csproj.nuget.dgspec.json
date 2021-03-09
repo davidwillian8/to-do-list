@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj": {}
+    "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj": {}
   },
   "projects": {
-    "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj": {
+    "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj",
+        "projectUniqueName": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj",
         "projectName": "ToDoList.Api",
-        "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api\\obj\\",
+        "projectPath": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj",
+        "packagesPath": "C:\\Users\\kroton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kroton\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

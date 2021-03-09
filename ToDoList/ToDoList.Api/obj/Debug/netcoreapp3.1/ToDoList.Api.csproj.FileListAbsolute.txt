@@ -18,3 +18,23 @@ D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\staticwe
 D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.dll
 D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.pdb
 D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.genruntimeconfig.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.exe
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.deps.json
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.runtimeconfig.json
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.runtimeconfig.dev.json
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.dll
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.pdb
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.csprojAssemblyReference.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.AssemblyInfoInputs.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.AssemblyInfo.cs
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.csproj.CoreCompileInputs.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.RazorTargetAssemblyInfo.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.Api.StaticWebAssets.Manifest.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.Api.StaticWebAssets.xml
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.dll
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.pdb
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.genruntimeconfig.cache

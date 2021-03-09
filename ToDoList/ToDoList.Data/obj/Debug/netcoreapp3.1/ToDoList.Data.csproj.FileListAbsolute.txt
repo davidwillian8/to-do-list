@@ -1,0 +1,16 @@
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\bin\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.dll
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\bin\Debug\netcoreapp3.1\ToDoList.Entities.dll
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\obj\Debug\netcoreapp3.1\ToDoList.Data.AssemblyInfoInputs.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\obj\Debug\netcoreapp3.1\ToDoList.Data.AssemblyInfo.cs
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\obj\Debug\netcoreapp3.1\ToDoList.Data.csprojAssemblyReference.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\bin\Debug\netcoreapp3.1\ToDoList.Data.deps.json
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\bin\Debug\netcoreapp3.1\ToDoList.Data.dll
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\bin\Debug\netcoreapp3.1\ToDoList.Data.pdb
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\bin\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.pdb
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\bin\Debug\netcoreapp3.1\ToDoList.Entities.pdb
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\obj\Debug\netcoreapp3.1\ToDoList.Data.csproj.CoreCompileInputs.cache
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\obj\Debug\netcoreapp3.1\ToDoList.Data.csproj.CopyComplete
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\obj\Debug\netcoreapp3.1\ToDoList.Data.dll
+C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Data\obj\Debug\netcoreapp3.1\ToDoList.Data.pdb
