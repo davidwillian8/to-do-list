@@ -13,6 +13,6 @@ D:\living code\to-do-list\ToDoList\ToDoList.Entities\bin\Debug\netcoreapp3.1\ToD
 D:\living code\to-do-list\ToDoList\ToDoList.Entities\obj\Debug\netcoreapp3.1\ToDoList.Entities.csprojAssemblyReference.cache
 D:\living code\to-do-list\ToDoList\ToDoList.Entities\obj\Debug\netcoreapp3.1\ToDoList.Entities.AssemblyInfoInputs.cache
 D:\living code\to-do-list\ToDoList\ToDoList.Entities\obj\Debug\netcoreapp3.1\ToDoList.Entities.AssemblyInfo.cs
-D:\living code\to-do-list\ToDoList\ToDoList.Entities\obj\Debug\netcoreapp3.1\ToDoList.Entities.csproj.CoreCompileInputs.cache
 D:\living code\to-do-list\ToDoList\ToDoList.Entities\obj\Debug\netcoreapp3.1\ToDoList.Entities.dll
 D:\living code\to-do-list\ToDoList\ToDoList.Entities\obj\Debug\netcoreapp3.1\ToDoList.Entities.pdb
+D:\living code\to-do-list\ToDoList\ToDoList.Entities\obj\Debug\netcoreapp3.1\ToDoList.Entities.csproj.CoreCompileInputs.cache

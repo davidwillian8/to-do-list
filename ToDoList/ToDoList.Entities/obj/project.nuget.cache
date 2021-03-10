@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2I5JUIbrnuEXtYBAcGMqlVKACTC66vLozBxeXidkMpYFr8x48Z9icp9W6mBhN2zXl6YfHt/A7TpbwD6RF4DKVw==",
+  "dgSpecHash": "EqcyFNNmC5uSJPV1esamLL6eN1KEu45tT9G66XPYwE7M0FgAf3uy1BVFdQk5yuD07LefohwqtMFUZ+U5dFoMbQ==",
   "success": true,
   "projectFilePath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

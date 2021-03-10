@@ -1,6 +1,7 @@
-﻿using System;
+﻿using Microsoft.Azure.Cosmos.Linq;
+using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
 using System.Threading.Tasks;
 using ToDoList.Api.Interfaces;
 using ToDoList.Entities.Base;
@@ -26,6 +27,11 @@ namespace ToDoList.Data.Base
         public async Task<TEntity> Get(Guid id)
         {
             return await _context.Get<TEntity>(id);
+        }
+
+        public async Task<List<TEntity>> GetAll()
+        {
+            return (await _context.GetQuery<TEntity>().ToFeedIterator().ReadNextAsync()).ToList();
         }
 
         public async Task<TEntity> Insert(TEntity entity)

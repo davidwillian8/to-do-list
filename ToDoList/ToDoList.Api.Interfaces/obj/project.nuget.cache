@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AhYLU5fZnNYZYIYyWeZ/k35yjHtSOpPHP/b5sbHOWg3K5LropouC2RqmcIzMUGtU0RCbvZ+ACbbhNOvb4qGlmQ==",
+  "dgSpecHash": "Nz/HSQEg2optgF7BVnI5nbs72SeCrLenYbj2WiuSytT+vv7HbE2wkTt/IJDOQiN2TGj06AHOkrBvMXtENkFX/g==",
   "success": true,
   "projectFilePath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

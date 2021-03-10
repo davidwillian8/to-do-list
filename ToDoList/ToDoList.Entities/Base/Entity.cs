@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 
 namespace ToDoList.Entities.Base
 {
@@ -7,17 +8,12 @@ namespace ToDoList.Entities.Base
         public Entity()
         {
             Id = Guid.NewGuid().ToString();
+            partition = "TST";
         }
 
+        [JsonProperty(PropertyName = "id")]
         public string Id { get; set; }
 
-
-        public string partition { 
-            get 
-            {
-                return "TST";
-            } 
-            set { } 
-        }
+        public string partition { get; set; }
     }
 }

@@ -3,6 +3,7 @@ using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using ToDoList.Api.Interfaces;
@@ -43,8 +44,18 @@ namespace ToDoList.Data.Base
 
         public async Task<TEntity> Get<TEntity>(Guid id) where TEntity : Entity
         {
-            return await _container.ReadItemAsync<TEntity>(id.ToString(), 
+            try
+            {
+                return await _container.ReadItemAsync<TEntity>(id.ToString(),
                 new PartitionKey(_partitionKey));
+            }
+            catch (CosmosException ce)
+            {
+                if (ce.StatusCode == HttpStatusCode.NotFound)
+                    return null;
+
+                throw;
+            }
         }
 
         public IOrderedQueryable<TEntity> GetQuery<TEntity>() where TEntity : Entity
