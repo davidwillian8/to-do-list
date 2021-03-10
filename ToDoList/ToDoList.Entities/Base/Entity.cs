@@ -1,11 +1,23 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ToDoList.Entities.Base
 {
     public abstract class Entity
     {
-        public Guid Id { get; set; }
+        public Entity()
+        {
+            Id = Guid.NewGuid().ToString();
+        }
+
+        public string Id { get; set; }
+
+
+        public string partition { 
+            get 
+            {
+                return "TST";
+            } 
+            set { } 
+        }
     }
 }

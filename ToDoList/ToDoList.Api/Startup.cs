@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using ToDoList.IoC;
 
 namespace ToDoList.Api
 {
@@ -10,6 +11,7 @@ namespace ToDoList.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddDependencies();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

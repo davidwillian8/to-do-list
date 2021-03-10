@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Data\\ToDoList.Data.csproj": {}
+    "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Data\\ToDoList.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj": {
+    "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj",
+        "projectUniqueName": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj",
         "projectName": "ToDoList.Api.Interfaces",
-        "projectPath": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\kroton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\obj\\",
+        "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kroton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj": {
-                "projectPath": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj"
+              "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj": {
+                "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj"
               }
             }
           }
@@ -56,21 +59,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Data\\ToDoList.Data.csproj": {
+    "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Data\\ToDoList.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Data\\ToDoList.Data.csproj",
+        "projectUniqueName": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Data\\ToDoList.Data.csproj",
         "projectName": "ToDoList.Data",
-        "projectPath": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Data\\ToDoList.Data.csproj",
-        "packagesPath": "C:\\Users\\kroton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Data\\obj\\",
+        "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Data\\ToDoList.Data.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kroton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj"
+              "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj": {
+                "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj"
               }
             }
           }
@@ -122,21 +128,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj": {
+    "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj",
+        "projectUniqueName": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj",
         "projectName": "ToDoList.Entities",
-        "projectPath": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj",
-        "packagesPath": "C:\\Users\\kroton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Entities\\obj\\",
+        "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kroton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -174,7 +183,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

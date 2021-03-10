@@ -1,6 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Threading.Tasks;
+using ToDoList.Api.Interfaces;
 using ToDoList.Api.ViewModels;
+using ToDoList.Entities;
 
 namespace ToDoList.Api.Controllers
 {
@@ -8,6 +11,13 @@ namespace ToDoList.Api.Controllers
     [ApiController]
     public class BoardController : ControllerBase
     {
+        private readonly IBoardRepository _boardRepository;
+
+        public BoardController(IBoardRepository boardRepository)
+        {
+            _boardRepository = boardRepository;
+        }
+
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(string id)
         {
@@ -23,7 +33,17 @@ namespace ToDoList.Api.Controllers
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] BoardViewModel board)
         {
-            return Ok();
+            if (board.Id != Guid.Empty)
+            {
+                return BadRequest("A propriedade Id não deve ser preenchida.");
+            }
+
+            var newBoard = await _boardRepository.Insert(new Board
+            { 
+                Nome = board.Name, Cards = null 
+            });
+
+            return Ok(newBoard);
         }
 
         [HttpPut]

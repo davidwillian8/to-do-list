@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "viXne1btf+zISl3l7AYAm8EXRDyRdfANO+ULeR9gOqN6wloIP/2Vr3EDSBl6U1wLWF14dH2Pi3PqTOONIXVAWg==",
+  "dgSpecHash": "2I5JUIbrnuEXtYBAcGMqlVKACTC66vLozBxeXidkMpYFr8x48Z9icp9W6mBhN2zXl6YfHt/A7TpbwD6RF4DKVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj",
+  "projectFilePath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

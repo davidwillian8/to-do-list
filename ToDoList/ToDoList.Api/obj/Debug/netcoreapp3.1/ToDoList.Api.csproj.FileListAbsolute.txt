@@ -1,23 +1,3 @@
-D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\appsettings.json
-D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.exe
-D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.deps.json
-D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.runtimeconfig.json
-D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.runtimeconfig.dev.json
-D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.dll
-D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.pdb
-D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.csprojAssemblyReference.cache
-D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.AssemblyInfoInputs.cache
-D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.AssemblyInfo.cs
-D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.csproj.CoreCompileInputs.cache
-D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.MvcApplicationPartsAssemblyInfo.cache
-D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.RazorTargetAssemblyInfo.cache
-D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.Api.StaticWebAssets.Manifest.cache
-D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.Api.StaticWebAssets.xml
-D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.dll
-D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.pdb
-D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.genruntimeconfig.cache
 C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\appsettings.json
@@ -38,3 +18,50 @@ C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\ne
 C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.dll
 C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.pdb
 C:\Users\kroton\Desktop\livecoding\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.genruntimeconfig.cache
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.exe
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.deps.json
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.runtimeconfig.json
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.runtimeconfig.dev.json
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.pdb
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Data.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Entities.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.IoC.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Api.Interfaces.pdb
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.IoC.pdb
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Data.pdb
+D:\living code\to-do-list\ToDoList\ToDoList.Api\bin\Debug\netcoreapp3.1\ToDoList.Entities.pdb
+D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.csprojAssemblyReference.cache
+D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.AssemblyInfoInputs.cache
+D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.AssemblyInfo.cs
+D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.csproj.CoreCompileInputs.cache
+D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.RazorTargetAssemblyInfo.cache
+D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.csproj.CopyComplete
+D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.Api.StaticWebAssets.Manifest.cache
+D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\staticwebassets\ToDoList.Api.StaticWebAssets.xml
+D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.dll
+D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.pdb
+D:\living code\to-do-list\ToDoList\ToDoList.Api\obj\Debug\netcoreapp3.1\ToDoList.Api.genruntimeconfig.cache

@@ -7,7 +7,7 @@ namespace ToDoList.Api.ViewModels
     {
         public Guid Id { get; set; }
 
-        [Required, Range(1, 30)]
+        [Required, MaxLength(30)]
         public string Name { get; set; }
     }
 }

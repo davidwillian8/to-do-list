@@ -32,7 +32,7 @@ namespace ToDoList.Data.Base
 
         public void SetupCollection<TEntity>() where TEntity : Entity
         {
-            _database.CreateContainerAsync(typeof(TEntity).Name.ToLower(), "/partition").Wait();
+            _database.CreateContainerIfNotExistsAsync(typeof(TEntity).Name.ToLower(), "/partition").Wait();
             _container = _database.GetContainer(typeof(TEntity).Name.ToLower());
         }
 

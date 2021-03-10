@@ -1,20 +1,216 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj": {}
+    "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj": {
+    "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj",
-        "projectName": "ToDoList.Api",
-        "projectPath": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj",
-        "packagesPath": "C:\\Users\\kroton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kroton\\Desktop\\livecoding\\to-do-list\\ToDoList\\ToDoList.Api\\obj\\",
+        "projectUniqueName": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj",
+        "projectName": "ToDoList.Api.Interfaces",
+        "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kroton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj": {
+                "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj",
+        "projectName": "ToDoList.Api",
+        "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api\\ToDoList.Api.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj": {
+                "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj"
+              },
+              "D:\\living code\\to-do-list\\ToDoList\\ToDoList.IoC\\ToDoList.IoC.csproj": {
+                "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.IoC\\ToDoList.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Data\\ToDoList.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Data\\ToDoList.Data.csproj",
+        "projectName": "ToDoList.Data",
+        "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Data\\ToDoList.Data.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj": {
+                "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj",
+        "projectName": "ToDoList.Entities",
+        "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\ToDoList.Entities.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,14 +244,79 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\living code\\to-do-list\\ToDoList\\ToDoList.IoC\\ToDoList.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.IoC\\ToDoList.IoC.csproj",
+        "projectName": "ToDoList.IoC",
+        "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.IoC\\ToDoList.IoC.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj": {
+                "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Api.Interfaces\\ToDoList.Api.Interfaces.csproj"
+              },
+              "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Data\\ToDoList.Data.csproj": {
+                "projectPath": "D:\\living code\\to-do-list\\ToDoList\\ToDoList.Data\\ToDoList.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
